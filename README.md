@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Passionate about AI & machine learning,  always exploring new ideas and building projects that push my skills further.  <br>🧠 I love learning new technologies, taking on challenges and understanding how things really work under the hood.  <br>🤖 Interested in automations, algorithmic trading, and creating small tools that solve real problems in my workflow.  <br>🔐 Curious about blockchain and emerging technologies that are shaping the future of software.  <br>🛠️ Constantly experimenting, improving, and building</p>
+<p align="left">🚀 Passionate about AI & machine learning,  always exploring new ideas and building projects that push my skills further.  <br>🧠 I love learning new technologies, taking on challenges and understanding how things really work under the hood.  <br>🤖 Interested in automations, algorithmic trading, and creating small tools that solve real problems in my workflow.  <br>🔐 Curious about blockchain and emerging technologies that are shaping the future of software.  <br>🛠️ Constantly experimenting, improving, and building.</p>
 
 ###
 
